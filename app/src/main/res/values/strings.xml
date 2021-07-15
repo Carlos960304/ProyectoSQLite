@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProjectSQLite</string>
+
+    <string name="create_base">Crear Base</string>
+
+    <string name="name">Nombre</string>
+    <string name="phone">Telefono</string>
+    <string name="email">Correo electronico</string>
+    <string name="save_record">Guardar registro</string>
+    <string name="new_record">Nuevo registro</string>
+</resources>
